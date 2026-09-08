@@ -76,7 +76,7 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ---
 
-### 🏭 [AI-Driven Closed-Loop Reactive Dyeing System — 428 Validated Industrial Batches, <10% MAPE](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
+### 🏭 [AI-Driven Closed-Loop Reactive Dyeing System](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
 > *From open-loop guesswork to AI-controlled precision* — end-to-end industrial pipeline on 5 years of real Bangladesh factory data: NLP-inspired chemical tokeniser treats recipes as vocabulary, XGBoost/LightGBM beat the best-quartile human operator (P25 benchmark) on all 5 KPIs, and a closed-loop PLC architecture targets the 8,576 m³/month recoverable water pool above recipe targets — aligned with SDG 9 & 12.
 
 **Keywords:** `XGBoost` `LightGBM` `Python` `Industrial AI` `Chemical Tokeniser` `PLC` `Closed-Loop Control` `Sustainable Manufacturing` `SDG`
