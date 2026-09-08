@@ -20,7 +20,7 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ## 🚀 Featured Projects
 
-### ⚛️ [SARS-CoV-2 Mpro Acylation Transition State — 4-Stage QM/MM Pipeline](https://github.com/skmainuddin745-spec/Mpro-Acylation-Transition-State)
+### ⚛️ [SARS-CoV-2 Mpro Acylation TS — QM/MM Pipeline](https://github.com/skmainuddin745-spec/Mpro-Acylation-Transition-State)
 > *Automated quantum–classical pipeline that refused to climb the wrong mountain* — a hard geometry **GATE** blocks physically impossible H-transfer poses before any scan launches, then locates the true covalent acylation TS of the COVID-19 drug target at PBE/DZVP accuracy across 4 chained GROMACS + CP2K QM/MM stages.
 
 **Keywords:** `QM/MM` `CP2K` `GROMACS` `SARS-CoV-2` `Enzyme Catalysis` `Transition State` `DFT` `Cysteine Protease`
@@ -41,7 +41,7 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ---
 
-### 📐 [Industrial Reactive Dyeing Process Analytics — ANOVA, PCA & K-Means on 660 Production Batches](https://github.com/skmainuddin745-spec/Smart-Dyeing-Process-Analytics)
+### 📐 [Industrial Reactive Dyeing Process Analytics](https://github.com/skmainuddin745-spec/Smart-Dyeing-Process-Analytics)
 > *Factory-floor statistical science with zero trust in unverified numbers* — 28/28 mathematical claims independently re-derived from raw production CSV, finding that shade drives salt dosing with Welch's F = 647.30 (p = 4×10⁻¹⁴³), K-Means blind-rediscovers the factory shade taxonomy at 78.24% accuracy, and H₂O₂ overdose is the single fastest ROI intervention point.
 
 **Keywords:** `Python` `SciPy` `scikit-learn` `Welch's ANOVA` `PCA` `K-Means` `Statistical Verification` `Industrial Process Optimisation`
@@ -55,21 +55,21 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ---
 
-### 🔬 [Computer-Aided Drug Discovery Pipeline — Covalent Docking, MD Validation & MM-PBSA on Mpro, CYP3A4 & GPCR](https://github.com/skmainuddin745-spec/CADD-Drug-Discovery-Pipeline)
+### 🔬 [Computer-Aided Drug Discovery Pipeline](https://github.com/skmainuddin745-spec/CADD-Drug-Discovery-Pipeline)
 > *From crystal structure to binding free energy in one reproducible pipeline* — Schrödinger Glide induced-fit covalent docking, 100–200 ns Desmond/GROMACS MD validation, RDF analysis of heme Fe–ligand coordination (Fe–N: 2.12 ± 0.08 Å), and MM-PBSA binding energy decomposition across three therapeutically distinct targets: SARS-CoV-2 Mpro (6LU7), CYP3A4, and a GPCR-peptide complex.
 
 **Keywords:** `Schrödinger` `Glide IFD` `AutoDock Vina` `GROMACS` `Desmond` `MM-PBSA` `CADD` `Covalent Docking` `Drug Discovery`
 
 ---
 
-### ⚡ [Uncovering Cytochrome c & Myoglobin–Herbicide Binding via Mobile Proton MD & ESI-Mass Spectrometry](https://github.com/skmainuddin745-spec/CytMyo-Mobile-Proton-MD-Pesticides)
+### ⚡ [Uncovering Protein–Herbicide Interactions via Mobile Proton MD & Mass Spectrometry](https://github.com/skmainuddin745-spec/CytMyo-Mobile-Proton-MD-Pesticides)
 > *Simulating the mass spectrometer, not just the molecule* — GROMACS gas-phase MD in vacuo at 590–623 K faithfully replicates ESI-MS charge states (9+/10+), revealing Coulomb-driven structural expansion at higher charge, herbicide ligand stabilising key loop regions by ~30% RMSF reduction, and conformational ensembles correlated with MS fragmentation data — supporting a peer-reviewed manuscript.
 
 **Keywords:** `GROMACS` `CHARMM36` `Mobile Proton Model` `ESI-MS` `Gas-Phase MD` `Cytochrome c` `Myoglobin` `Herbicide Binding` `PCA` `VMD`
 
 ---
 
-### 🧠 [Hybrid ResNet50 + PennyLane Variational Quantum Circuit — 82–98% Accuracy on 6-Class Oral Disease Detection](https://github.com/skmainuddin745-spec/Hybrid-Quantum-Classical-CNN-Oral-Disease)
+### 🧠 [Hybrid Quantum-Classical CNN — Oral Disease Detection](https://github.com/skmainuddin745-spec/Hybrid-Quantum-Classical-CNN-Oral-Disease)
 > *84 quantum parameters outcompeting thousands of classical ones* — pretrained ResNet50 compresses images to 6 features encoded into a 6-qubit, 6-layer variational circuit with circular CZ entanglement, achieving competitive or superior performance over purely classical baselines on a clinical dataset addressing 3.5 billion globally afflicted — the first comprehensive quantum-classical architecture comparison for oral disease classification.
 
 **Keywords:** `PennyLane` `TensorFlow` `ResNet50` `Variational Quantum Circuit` `Quantum Machine Learning` `Medical Imaging` `Oral Disease` `CNN` `Transfer Learning`
