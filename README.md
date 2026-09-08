@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sk--mainuddin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-mainuddin/)
 [![Website](https://img.shields.io/badge/Website-sk--mainuddin-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://sites.google.com/view/sk-mainuddin)
 [![Email](https://img.shields.io/badge/Email-sk.mainuddin745%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sk.mainuddin745@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Research%20Demos-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@stalwartsheikh1133)
 [![GitHub](https://img.shields.io/badge/GitHub-skmainuddin745--spec-181717?style=flat&logo=github&logoColor=white)](https://github.com/skmainuddin745-spec)
 
 ---
@@ -129,6 +130,7 @@ Currently developing automated pipelines for **transition-state location** in en
 - 📧 **Email:** [sk.mainuddin745@gmail.com](mailto:sk.mainuddin745@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/sk-mainuddin](https://www.linkedin.com/in/sk-mainuddin/)
 - 🌐 **Website:** [sites.google.com/view/sk-mainuddin](https://sites.google.com/view/sk-mainuddin)
+- 📺 **YouTube:** [Research demos & simulation videos](https://www.youtube.com/@stalwartsheikh1133)
 - 🐙 **GitHub:** [github.com/skmainuddin745-spec](https://github.com/skmainuddin745-spec)
 - 🌍 **Based in:** Bangladesh
 
