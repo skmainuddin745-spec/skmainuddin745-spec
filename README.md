@@ -20,66 +20,66 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ## 🚀 Featured Projects
 
-### ⚗️ [SARS-CoV-2 Mpro Acylation TS — QM/MM Pipeline](https://github.com/skmainuddin745-spec/Mpro-Acylation-Transition-State)
-> Full 4-stage automated QM/MM pipeline (GROMACS + CP2K, PBE/DZVP) for locating the genuine acylation transition state of SARS-CoV-2 main protease. Features an automated geometry **GATE** that prevents expensive calculations from launching on physically impossible poses.
+### ⚛️ [SARS-CoV-2 Mpro Acylation Transition State — 4-Stage QM/MM Pipeline](https://github.com/skmainuddin745-spec/Mpro-Acylation-Transition-State)
+> *Automated quantum–classical pipeline that refused to climb the wrong mountain* — a hard geometry **GATE** blocks physically impossible H-transfer poses before any scan launches, then locates the true covalent acylation TS of the COVID-19 drug target at PBE/DZVP accuracy across 4 chained GROMACS + CP2K QM/MM stages.
 
-**Keywords:** `QM/MM` `CP2K` `GROMACS` `SARS-CoV-2` `Enzyme Catalysis` `Transition State` `DFT`
-
----
-
-### 💊 [DES Drug Delivery — GROMACS MD](https://github.com/skmainuddin745-spec/DES-Drug-Delivery-GROMACS)
-> Atomistic molecular dynamics of a multi-drug Deep Eutectic Solvent (MEN:THY + IBU + ACE + water). Full CHARMM36/CGenFF topology assembly and production simulations to characterise drug–DES interactions, diffusion coefficients, and solvation structure.
-
-**Keywords:** `GROMACS` `CHARMM36` `Deep Eutectic Solvent` `Drug Delivery` `Molecular Dynamics`
+**Keywords:** `QM/MM` `CP2K` `GROMACS` `SARS-CoV-2` `Enzyme Catalysis` `Transition State` `DFT` `Cysteine Protease`
 
 ---
 
-### 🧬 [PEG Polymer MD Analysis](https://github.com/skmainuddin745-spec/PEG-Polymer-MD-Analysis)
-> Comparative 100+ ns atomistic MD of PEG-400/600/2000 in water and gas-phase environments with urea co-solute. Chain conformation, radius of gyration, and density analysis across molecular weights.
+### 🧪 [Menthol:Thymol DES Transdermal Delivery — Ibuprofen & Acetaminophen Atomistic MD](https://github.com/skmainuddin745-spec/DES-Drug-Delivery-GROMACS)
+> *Designer solvent, molecular-scale verdict* — full CHARMM36/CGenFF atomistic MD of a Menthol:Thymol Deep Eutectic Solvent co-loaded with Ibuprofen and Acetaminophen, revealing that Menthol's OH···O hydrogen bonds preferentially solvate IBU while both drugs diffuse slower in DES than in pure water — consistent with enhanced transdermal retention and reduced systemic absorption.
 
-**Keywords:** `GROMACS` `VMD` `PEG` `Polymer` `Nanocarrier` `Biomaterials`
-
----
-
-### 📊 [Smart Dyeing Process Analytics](https://github.com/skmainuddin745-spec/Smart-Dyeing-Process-Analytics)
-> Rigorous multi-method statistical analysis of an industrial dyeing optimisation dataset: ANOVA, PCA, K-Means clustering, cross-validation, and non-linear asymptote fitting — with fully automated mathematical verification of every reported statistic across 660 validated batches.
-
-**Keywords:** `Python` `SciPy` `scikit-learn` `Statistical Analysis` `ANOVA` `PCA` `Process Optimisation`
+**Keywords:** `GROMACS` `CHARMM36` `CGenFF` `Deep Eutectic Solvent` `Transdermal Drug Delivery` `RDF` `Diffusion` `Molecular Dynamics`
 
 ---
 
-### 🤖 [Odysseus — Local AI Research Assistant](https://github.com/skmainuddin745-spec/Odysseus-AI-Assistant)
-> Production-grade, fully self-hosted AI assistant with multi-model LLM support, tool use, task scheduling, deep web research, RAG (ChromaDB), voice I/O (Whisper + Piper), MCP server integration, and a rich browser-based UI. Every inference runs locally — zero data leakage.
+### 🔗 [Polyethylene Glycol (PEG-400/600/2000) Polymer MD — Urea Co-solute, Water & Gas-Phase Conformational Analysis](https://github.com/skmainuddin745-spec/PEG-Polymer-MD-Analysis)
+> *Three molecular weights, two environments, one question: what controls chain collapse?* — systematic GROMACS + VMD atomistic MD comparing PEG-400, PEG-600, and PEG-2000 in SPC/E water and gas-phase vacuum with urea co-solute, tracking radius of gyration convergence and frame-wise density to resolve how solvation environment governs the nanocarrier surface coating that controls in vivo protein-corona formation.
 
-**Keywords:** `Python` `FastAPI` `Ollama` `RAG` `ChromaDB` `Whisper` `LLM` `MCP` `Self-hosted`
-
----
-
-### 💻 [CADD Drug Discovery Pipeline](https://github.com/skmainuddin745-spec/CADD-Drug-Discovery-Pipeline)
-> Computer-Aided Drug Design workflows: covalent docking (Glide IFD), Desmond/GROMACS MD validation, RDF analysis, MM-PBSA scoring on SARS-CoV-2 Mpro (6LU7), CYP3A4, and GPCR targets. Full virtual screening pipeline from target preparation to lead optimisation.
-
-**Keywords:** `Schrödinger` `AutoDock Vina` `GROMACS` `MM-PBSA` `CADD` `Drug Discovery` `Docking`
+**Keywords:** `GROMACS` `VMD` `Polyethylene Glycol` `Polymer Physics` `Radius of Gyration` `Nanocarrier` `Biomaterials` `Urea Co-solute`
 
 ---
 
-### 🧪 [Cytochrome c & Myoglobin MD — Pesticide Interactions](https://github.com/skmainuddin745-spec/CytMyo-Mobile-Proton-MD-Pesticides)
-> All-atom GROMACS molecular dynamics of cytochrome c and myoglobin in multiple mobile-proton states (9+/10+) with and without herbicide/pesticide ligands. Comprehensive interaction analysis, PCA of conformational ensembles, and VMD visualisation. Supporting data for a peer-reviewed manuscript.
+### 📐 [Industrial Reactive Dyeing Process Analytics — ANOVA, PCA & K-Means on 660 Production Batches](https://github.com/skmainuddin745-spec/Smart-Dyeing-Process-Analytics)
+> *Factory-floor statistical science with zero trust in unverified numbers* — 28/28 mathematical claims independently re-derived from raw production CSV, finding that shade drives salt dosing with Welch's F = 647.30 (p = 4×10⁻¹⁴³), K-Means blind-rediscovers the factory shade taxonomy at 78.24% accuracy, and H₂O₂ overdose is the single fastest ROI intervention point.
 
-**Keywords:** `GROMACS` `CHARMM36` `Cytochrome c` `Myoglobin` `Pesticide` `MD` `PCA` `VMD`
-
----
-
-### ⚛️ [Hybrid Quantum-Classical CNN — Oral Disease Detection](https://github.com/skmainuddin745-spec/Hybrid-Quantum-Classical-CNN-Oral-Disease)
-> Novel hybrid architecture combining ResNet50 transfer learning with a PennyLane variational quantum circuit (6 qubits, 6 layers) for oral disease classification from clinical images. Achieves 82–98% accuracy across disease classes with a compact quantum-enhanced model.
-
-**Keywords:** `PennyLane` `TensorFlow` `Quantum Computing` `CNN` `Medical Imaging` `ResNet50` `VQC`
+**Keywords:** `Python` `SciPy` `scikit-learn` `Welch's ANOVA` `PCA` `K-Means` `Statistical Verification` `Industrial Process Optimisation`
 
 ---
 
-### 🏭 [AI Closed-Loop Dyeing System — Bangladesh](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
-> End-to-end industrial AI pipeline built on 5+ years of real production data: custom chemical tokeniser (NLP-inspired), stratified multi-target XGBoost/LightGBM models (36 models covering all shade×unit combinations), statistical validation framework, and closed-loop PLC integration design.
+### 🤖 [Odysseus — Privacy-First Local AI Research Assistant](https://github.com/skmainuddin745-spec/Odysseus-AI-Assistant)
+> *Every inference, search, email, and voice interaction — entirely on local hardware, zero cloud.* Production-grade self-hosted AI assistant with multi-model LLM routing (Ollama, OpenAI, Anthropic), multi-step deep web research, RAG (ChromaDB + FastEmbed), STT/TTS (Whisper + Piper), CalDAV calendar, MCP server integration, and sandboxed shell execution — built on Flask + WebSockets with a rich browser UI.
 
-**Keywords:** `XGBoost` `LightGBM` `Python` `Industrial AI` `NLP` `PLC` `Process Control` `Textile`
+**Keywords:** `Python` `Flask` `Ollama` `RAG` `ChromaDB` `Whisper` `LLM` `MCP` `Self-hosted` `Privacy-first`
+
+---
+
+### 🔬 [Computer-Aided Drug Discovery Pipeline — Covalent Docking, MD Validation & MM-PBSA on Mpro, CYP3A4 & GPCR](https://github.com/skmainuddin745-spec/CADD-Drug-Discovery-Pipeline)
+> *From crystal structure to binding free energy in one reproducible pipeline* — Schrödinger Glide induced-fit covalent docking, 100–200 ns Desmond/GROMACS MD validation, RDF analysis of heme Fe–ligand coordination (Fe–N: 2.12 ± 0.08 Å), and MM-PBSA binding energy decomposition across three therapeutically distinct targets: SARS-CoV-2 Mpro (6LU7), CYP3A4, and a GPCR-peptide complex.
+
+**Keywords:** `Schrödinger` `Glide IFD` `AutoDock Vina` `GROMACS` `Desmond` `MM-PBSA` `CADD` `Covalent Docking` `Drug Discovery`
+
+---
+
+### ⚡ [Uncovering Cytochrome c & Myoglobin–Herbicide Binding via Mobile Proton MD & ESI-Mass Spectrometry](https://github.com/skmainuddin745-spec/CytMyo-Mobile-Proton-MD-Pesticides)
+> *Simulating the mass spectrometer, not just the molecule* — GROMACS gas-phase MD in vacuo at 590–623 K faithfully replicates ESI-MS charge states (9+/10+), revealing Coulomb-driven structural expansion at higher charge, herbicide ligand stabilising key loop regions by ~30% RMSF reduction, and conformational ensembles correlated with MS fragmentation data — supporting a peer-reviewed manuscript.
+
+**Keywords:** `GROMACS` `CHARMM36` `Mobile Proton Model` `ESI-MS` `Gas-Phase MD` `Cytochrome c` `Myoglobin` `Herbicide Binding` `PCA` `VMD`
+
+---
+
+### 🧠 [Hybrid ResNet50 + PennyLane Variational Quantum Circuit — 82–98% Accuracy on 6-Class Oral Disease Detection](https://github.com/skmainuddin745-spec/Hybrid-Quantum-Classical-CNN-Oral-Disease)
+> *84 quantum parameters outcompeting thousands of classical ones* — pretrained ResNet50 compresses images to 6 features encoded into a 6-qubit, 6-layer variational circuit with circular CZ entanglement, achieving competitive or superior performance over purely classical baselines on a clinical dataset addressing 3.5 billion globally afflicted — the first comprehensive quantum-classical architecture comparison for oral disease classification.
+
+**Keywords:** `PennyLane` `TensorFlow` `ResNet50` `Variational Quantum Circuit` `Quantum Machine Learning` `Medical Imaging` `Oral Disease` `CNN` `Transfer Learning`
+
+---
+
+### 🏭 [AI-Driven Closed-Loop Reactive Dyeing System — 428 Validated Industrial Batches, <10% MAPE](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
+> *From open-loop guesswork to AI-controlled precision* — end-to-end industrial pipeline on 5 years of real Bangladesh factory data: NLP-inspired chemical tokeniser treats recipes as vocabulary, XGBoost/LightGBM beat the best-quartile human operator (P25 benchmark) on all 5 KPIs, and a closed-loop PLC architecture targets the 8,576 m³/month recoverable water pool above recipe targets — aligned with SDG 9 & 12.
+
+**Keywords:** `XGBoost` `LightGBM` `Python` `Industrial AI` `Chemical Tokeniser` `PLC` `Closed-Loop Control` `Sustainable Manufacturing` `SDG`
 
 ---
 
