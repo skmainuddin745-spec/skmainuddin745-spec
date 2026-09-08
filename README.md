@@ -2,6 +2,10 @@
 
 **Computational Chemist & AI Engineer** | QM/MM • Molecular Dynamics • Drug Discovery • Machine Learning
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sk--mainuddin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-mainuddin/)
+[![Email](https://img.shields.io/badge/Email-sk.mainuddin745%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sk.mainuddin745@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-skmainuddin745--spec-181717?style=flat&logo=github&logoColor=white)](https://github.com/skmainuddin745-spec)
+
 ---
 
 ## 🔬 Research Focus
@@ -70,8 +74,8 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ---
 
-### 🤖 [AI Closed-Loop Dyeing System — Bangladesh](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
-> End-to-end industrial AI pipeline built on 5+ years of real production data: custom chemical tokeniser (NLP-inspired), stratified multi-target XGBoost/LightGBM models (36 models covering all shade×unit combinations), statistical validation framework, and closed-loop PLC integration design achieving significant process optimisation.
+### 🏭 [AI Closed-Loop Dyeing System — Bangladesh](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
+> End-to-end industrial AI pipeline built on 5+ years of real production data: custom chemical tokeniser (NLP-inspired), stratified multi-target XGBoost/LightGBM models (36 models covering all shade×unit combinations), statistical validation framework, and closed-loop PLC integration design.
 
 **Keywords:** `XGBoost` `LightGBM` `Python` `Industrial AI` `NLP` `PLC` `Process Control` `Textile`
 
@@ -121,8 +125,10 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ## 📫 Contact
 
-- 📧 Email: skmainuddin745@gmail.com
-- 🌍 Based in: Bangladesh
+- 📧 **Email:** [sk.mainuddin745@gmail.com](mailto:sk.mainuddin745@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sk-mainuddin](https://www.linkedin.com/in/sk-mainuddin/)
+- 🐙 **GitHub:** [github.com/skmainuddin745-spec](https://github.com/skmainuddin745-spec)
+- 🌍 **Based in:** Bangladesh
 
 ---
 
