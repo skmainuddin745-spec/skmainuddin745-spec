@@ -49,91 +49,53 @@ Currently developing automated pipelines for **transition-state location** in en
 ---
 
 ### 🤖 [Odysseus — Privacy-First Local AI Research Assistant](https://github.com/skmainuddin745-spec/Odysseus-AI-Assistant)
-> *Every inference, search, email, and voice interaction — entirely on local hardware, zero cloud.* Production-grade self-hosted AI assistant with multi-model LLM routing (Ollama, OpenAI, Anthropic), multi-step deep web research, RAG (ChromaDB + FastEmbed), STT/TTS (Whisper + Piper), CalDAV calendar, MCP server integration, and sandboxed shell execution — built on Flask + WebSockets with a rich browser UI.
+> *Every inference, search, email, and voice interaction — entirely on local hardware, zero cloud.* Production-grade self-hosted AI assistant with multi-model LLM routing (Ollama, OpenAI, Anthropic), multi-step deep research via SearXNG, RAG with ChromaDB, Whisper STT + Piper TTS voice I/O, CalDAV calendar sync, and sandboxed shell execution — all running locally with JWT-authenticated browser interface.
 
-**Keywords:** `Python` `Flask` `Ollama` `RAG` `ChromaDB` `Whisper` `LLM` `MCP` `Self-hosted` `Privacy-first`
-
----
-
-### 🔬 [Computer-Aided Drug Discovery Pipeline](https://github.com/skmainuddin745-spec/CADD-Drug-Discovery-Pipeline)
-> *From crystal structure to binding free energy in one reproducible pipeline* — Schrödinger Glide induced-fit covalent docking, 100–200 ns Desmond/GROMACS MD validation, RDF analysis of heme Fe–ligand coordination (Fe–N: 2.12 ± 0.08 Å), and MM-PBSA binding energy decomposition across three therapeutically distinct targets: SARS-CoV-2 Mpro (6LU7), CYP3A4, and a GPCR-peptide complex.
-
-**Keywords:** `Schrödinger` `Glide IFD` `AutoDock Vina` `GROMACS` `Desmond` `MM-PBSA` `CADD` `Covalent Docking` `Drug Discovery`
+**Keywords:** `Python` `Flask` `WebSockets` `Ollama` `RAG` `ChromaDB` `Whisper` `Self-Hosted` `Privacy-First` `LLM`
 
 ---
 
-### ⚡ [Uncovering Protein–Herbicide Interactions via Mobile Proton MD & Mass Spectrometry](https://github.com/skmainuddin745-spec/CytMyo-Mobile-Proton-MD-Pesticides)
-> *Simulating the mass spectrometer, not just the molecule* — GROMACS gas-phase MD in vacuo at 590–623 K faithfully replicates ESI-MS charge states (9+/10+), revealing Coulomb-driven structural expansion at higher charge, herbicide ligand stabilising key loop regions by ~30% RMSF reduction, and conformational ensembles correlated with MS fragmentation data — supporting a peer-reviewed manuscript.
+### 🧬 [AI-Driven Closed-Loop Dyeing System — Bangladesh Textile Industry](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
+> *From factory floor to closed loop* — end-to-end applied ML pipeline processing 261,000+ enriched batch records from a real Bangladesh dyehouse, with an AI Recipe Optimizer (XGBoost/LightGBM) achieving < 10% MAPE on all 5 KPIs and beating the best-quartile human operator benchmark (P25), backed by a 95K-word systematic review of PLC-AI integration architecture.
 
-**Keywords:** `GROMACS` `CHARMM36` `Mobile Proton Model` `ESI-MS` `Gas-Phase MD` `Cytochrome c` `Myoglobin` `Herbicide Binding` `PCA` `VMD`
-
----
-
-### 🧠 [Hybrid Quantum-Classical CNN — Oral Disease Detection](https://github.com/skmainuddin745-spec/Hybrid-Quantum-Classical-CNN-Oral-Disease)
-> *84 quantum parameters outcompeting thousands of classical ones* — pretrained ResNet50 compresses images to 6 features encoded into a 6-qubit, 6-layer variational circuit with circular CZ entanglement, achieving competitive or superior performance over purely classical baselines on a clinical dataset addressing 3.5 billion globally afflicted — the first comprehensive quantum-classical architecture comparison for oral disease classification.
-
-**Keywords:** `PennyLane` `TensorFlow` `ResNet50` `Variational Quantum Circuit` `Quantum Machine Learning` `Medical Imaging` `Oral Disease` `CNN` `Transfer Learning`
+**Keywords:** `XGBoost` `LightGBM` `OPC UA` `PLC` `Industrial AI` `Bangladesh Textile` `Closed-Loop Control` `Process Optimisation`
 
 ---
 
-### 🏭 [AI-Driven Closed-Loop Reactive Dyeing System](https://github.com/skmainuddin745-spec/AI-Closed-Loop-Dyeing-Bangladesh)
-> *From open-loop guesswork to AI-controlled precision* — end-to-end industrial pipeline on 5 years of real Bangladesh factory data: NLP-inspired chemical tokeniser treats recipes as vocabulary, XGBoost/LightGBM beat the best-quartile human operator (P25 benchmark) on all 5 KPIs, and a closed-loop PLC architecture targets the 8,576 m³/month recoverable water pool above recipe targets — aligned with SDG 9 & 12.
+### 🔬 [CADD Drug Discovery Pipeline](https://github.com/skmainuddin745-spec/CADD-Drug-Discovery-Pipeline)
+> *From target to binding free energy* — CADD workflow collection covering SARS-CoV-2 Mpro covalent docking (Glide IFD + 100 ns MD), CYP3A4 ligand coordination (200 ns Desmond, Fe–N distance 2.12 ± 0.08 Å), PEG-400 multi-RDF solvation analysis, and adaptive biasing force (ABF) free energy calculation (ΔG = −8.4 ± 0.6 kcal/mol).
 
-**Keywords:** `XGBoost` `LightGBM` `Python` `Industrial AI` `Chemical Tokeniser` `PLC` `Closed-Loop Control` `Sustainable Manufacturing` `SDG`
+**Keywords:** `Schrödinger` `GROMACS` `NAMD` `CADD` `Molecular Docking` `MD Simulation` `Free Energy` `Drug Discovery`
+
+---
+
+### 🧠 [Hybrid Quantum-Classical CNN for Oral Disease Detection](https://github.com/skmainuddin745-spec/Hybrid-Quantum-Classical-CNN-Oral-Disease)
+> *Classical backbone, quantum discriminator* — ResNet50 transfer learning feeds 6 features into a 6-qubit PennyLane variational quantum circuit (6 entanglement layers), achieving 82–98% accuracy on 6-class oral disease classification and demonstrating measurable quantum advantage over a classical Dense equivalent on this low-dimensional feature space.
+
+**Keywords:** `PennyLane` `TensorFlow` `Quantum Machine Learning` `ResNet50` `Transfer Learning` `Medical Imaging` `VQC` `Oral Disease`
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Computational Chemistry
-| Tool | Proficiency | Applications |
-|------|-------------|-------------|
-| GROMACS | ⭐⭐⭐⭐⭐ | MD production runs, QM/MM interface, analysis |
-| CP2K | ⭐⭐⭐⭐ | DFT/QM calculations, QM/MM hybrid |
-| Schrödinger Suite | ⭐⭐⭐⭐ | Docking (Glide), Desmond MD, OPLS3e |
-| CHARMM36/CGenFF | ⭐⭐⭐⭐⭐ | Force-field parametrisation |
-| VMD | ⭐⭐⭐⭐ | Trajectory analysis, Tcl scripting |
-| PyMOL | ⭐⭐⭐⭐ | Structural visualisation, scripting |
-| AutoDock Vina | ⭐⭐⭐⭐ | Flexible molecular docking |
-| PennyLane | ⭐⭐⭐ | Variational quantum circuits, hybrid QML |
-
-### Programming
-| Language | Proficiency | Use |
-|----------|-------------|-----|
-| Python | ⭐⭐⭐⭐⭐ | MD analysis, ML, automation, web backends |
-| Bash | ⭐⭐⭐⭐⭐ | HPC job orchestration, pipeline scripts |
-| Tcl | ⭐⭐⭐ | VMD scripting |
-| JavaScript | ⭐⭐⭐ | Web frontends |
-| SQL | ⭐⭐⭐ | SQLite databases |
-
-### Machine Learning / Data Science
-`scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PennyLane` • `NumPy` • `Pandas` • `SciPy` • `Matplotlib` • `Seaborn` • `PCA` • `Cross-validation`
-
-### AI / LLM Engineering
-`Ollama` • `ChromaDB` • `FastEmbed` • `Whisper` • `LangChain` • `RAG` • `MCP` • `FastAPI` • `Flask-SocketIO`
+| Domain | Tools & Technologies |
+|--------|---------------------|
+| **Quantum Chemistry / QM-MM** | CP2K, Gaussian, ORCA, PySCF, DFT (PBE, B3LYP), DZVP/cc-pVTZ |
+| **Molecular Dynamics** | GROMACS, NAMD, Desmond (Schrödinger), CHARMM36, GAFF2, OPLS3e |
+| **Drug Discovery / CADD** | Schrödinger Glide (IFD, SP/XP), MM-GBSA, ABF, VMD, PyMOL |
+| **Machine Learning** | XGBoost, LightGBM, scikit-learn, TensorFlow/Keras, PyTorch |
+| **Quantum ML** | PennyLane, VQC, qubit-based hybrid architectures |
+| **Data Science** | pandas, NumPy, SciPy, Statsmodels, Plotly, Matplotlib |
+| **AI Engineering** | Flask, WebSockets, RAG (ChromaDB), LLM routing (Ollama/OpenAI) |
+| **Languages** | Python, Bash, TCL (VMD), PowerShell |
 
 ---
 
-## 📚 Research Areas
+## 📊 GitHub Statistics
 
-- **Enzyme catalysis** — QM/MM transition-state theory, cysteine protease reaction mechanisms
-- **Drug delivery** — Deep eutectic solvents, pesticide-protein interactions, transdermal formulations
-- **Covalent inhibitors** — Mpro, CADD workflows, MM-PBSA binding free energy
-- **Polymer physics** — PEG hydration thermodynamics, chain conformations
-- **Quantum machine learning** — Hybrid VQC architectures for medical classification
-- **Industrial AI** — Closed-loop process control, multi-target predictive modelling
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skmainuddin745-spec&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skmainuddin745-spec&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 📫 Contact
-
-- 📧 **Email:** [sk.mainuddin745@gmail.com](mailto:sk.mainuddin745@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sk-mainuddin](https://www.linkedin.com/in/sk-mainuddin/)
-- 🌐 **Website:** [sites.google.com/view/sk-mainuddin](https://sites.google.com/view/sk-mainuddin)
-- 📺 **YouTube:** [Research demos & simulation videos](https://www.youtube.com/@stalwartsheikh1133)
-- 🐙 **GitHub:** [github.com/skmainuddin745-spec](https://github.com/skmainuddin745-spec)
-- 🌍 **Based in:** Bangladesh
-
----
-
-*"Computation is not a shortcut — it is a microscope for the mind."*
+*Open to research collaborations, industrial AI consulting, and postdoctoral opportunities in computational chemistry and AI-driven process optimisation.*
