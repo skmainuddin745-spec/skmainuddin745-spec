@@ -77,7 +77,7 @@ Currently developing automated pipelines for **transition-state location** in en
 ---
 
 ### 💻 [Molecular Dynamics Simulation Advanced Scripts](https://github.com/skmainuddin745-spec/Molecular-Dynamics-Simulation-Advanced-Scripts)
-> *Engine-agnostic precision at scale* — A robust collection of advanced molecular dynamics macros converted to universal Python configurations. Features hierarchical multiple-timestep integration (up to 5 fs with SHAKE/LINCS equivalents), Particle-Mesh Ewald electrostatics, robust NVT/NPT thermodynamic ensembles (isotropic and anisotropic barostats), and systematic MM/PBSA binding free energy evaluation pipelines.
+> *Engine-agnostic precision at scale* — A robust collection of advanced molecular dynamics analytical pipelines converted to universal Python configurations. Features hierarchical multiple-timestep integration (up to 5 fs with SHAKE/LINCS equivalents), Particle-Mesh Ewald electrostatics, robust NVT/NPT thermodynamic ensembles (isotropic and anisotropic barostats), and systematic MM/PBSA binding free energy evaluation pipelines.
 
 **Keywords:** `Molecular Dynamics` `Python` `GROMACS` `LAMMPS` `MM/PBSA` `Free Energy` `Simulation Analytics` `Structural Bioinformatics`
 
