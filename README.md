@@ -83,6 +83,13 @@ Currently developing automated pipelines for **transition-state location** in en
 
 ---
 
+### ⚛️ [Integrated Mass Spec and Mobile Proton MD Simulation](https://github.com/skmainuddin745-spec/Integrated-Mass-Spec-and-Mobile-Proton-Molecular-Dynamics-Simulation)
+> *Rigorous architecture bridging mass spectrometry with molecular dynamics* — A completely proprietary GROMACS orchestration pipeline. Engineered to simulate complex mobile-proton states of Cytochrome C and Myoglobin under pesticide-ligand stress. Utilizes advanced Principal Component Analysis (PCA) to extract extreme backbone conformational dynamics from high-dimensional trajectory noise.
+
+**Keywords:** `GROMACS` `Mass Spectrometry` `Mobile Proton` `PCA` `Pesticide Ligands` `Cytochrome C` `Proprietary`
+
+---
+
 ## 🛠️ Technical Skills
 
 | Domain | Tools & Technologies |
