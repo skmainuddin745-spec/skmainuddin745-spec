@@ -106,3 +106,29 @@ Currently developing automated pipelines for **transition-state location** in en
 ---
 
 *Open to research collaborations, industrial AI consulting, and postdoctoral opportunities in computational chemistry and AI-driven process optimisation.*
+
+## :microscope: Computational Architecture & Analytical Framework
+
+### :dna: Core Execution Framework
+A centralized repository hosting the fundamental operational algorithms and protected modular scripts. These are essential for driving, standardizing, and reproducing complex molecular dynamics protocols across varying computational environments.
+
+### :zap: Thermodynamic & Energetics Profiling
+Specialized computational modules dedicated to the rigorous evaluation of thermodynamic parameters. These tools execute advanced calculations for:
+- Protein-ligand and protein-protein binding free energies.
+- Complex interaction energy landscapes.
+- Non-covalent energetic contributions across diverse conformational ensembles.
+
+### :test_tube: Simulation Orchestration
+Algorithmic suites architected to initiate, manage, and scale diverse simulation environments. This encompasses:
+- Canonical equilibrium runs and explicit membrane-protein system dynamics.
+- Targeted and Steered Molecular Dynamics (SMD).
+- Highly controlled multi-ensemble temperature and pressure configurations.
+
+### :bar_chart: Conformational & Structural Analytics
+Comprehensive analytical pipelines engineered to parse multi-dimensional trajectory data. These tools execute deep structural quantification, systematically capturing:
+- **Global Stability:** Evaluated via Root Mean Square Deviation (RMSD).
+- **Local Flexibility:** Assessed via Root Mean Square Fluctuation (RMSF).
+- **Dynamic Networks:** Secondary structure transitions and hydrogen-bonding networks to elucidate underlying mechanistic behaviors.
+
+### :tools: Pre-production Equilibration & Refinement
+Preparatory computational protocols designed for systematic energy minimization and structural refinement. By resolving steric clashes, optimizing initial geometries, and stabilizing solvent-solute interactions, these modules ensure the system reaches a thermodynamically viable and stable local minimum prior to the production phase.
