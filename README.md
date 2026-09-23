@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SK Mainuddin
 
-**Computational Chemist & AI Engineer** | QM/MM • Molecular Dynamics • Drug Discovery • Machine Learning
+**Computational Chemist & AI Engineer** | QM/MM • Molecular Dynamics • DFT • Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sk--mainuddin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-mainuddin/)
 [![Website](https://img.shields.io/badge/Website-sk--mainuddin-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://sites.google.com/view/sk-mainuddin)
