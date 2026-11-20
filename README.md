@@ -28,10 +28,16 @@ Currently developing automated pipelines for **transition-state location** in en
 ---
 
 ### 🌐 [EconAgent Platform — Institutional Bloomberg-Grade Multi-Agent Intelligence](https://github.com/skmainuddin745-spec/EconAgent-Platform)
-> *Zero-hallucination quantitative economics meets live planetary logistics* — multi-agent econometric intelligence platform compiling 507 Damodaran valuation datasets across 18 specialized agents, coupled with sub-meter optical satellite reconnaissance and geospatial maritime AIS radar tracking 45+ crude tankers with direct causal transmission to corporate EBITDA margins and DCF valuations, evaluated against the SOIC 310-Point Scorecard and Stan Weinstein Stage Model, delivered as a self-contained Bloomberg Terminal simulation.
-> **Verification:** 98.8% audit pass rate (248 PASS / 3 WARN / 0 FAIL), cryptographically sealed with SHA-256 signatures.
+> *Zero-hallucination quantitative economics meets live planetary logistics* — deterministic multi-agent corporate finance and macroeconomic simulation platform compiling **507 primary Damodaran valuation datasets** (NYU Stern) across **18 specialized autonomous agents**, coupled with **sub-meter optical satellite reconnaissance** (0.3m–0.5m GSD) and real-time **geospatial AIS maritime radar** tracking 45+ crude carriers across strategic planetary choke points.
+>
+> **Core Innovations & Econometric Architecture:**
+> - **Zero-Hallucination Evidence Protocol:** Every financial parameter, valuation multiple, beta coefficient, and hurdle rate carries an immutable byte-level `EvidenceCitation` (SHA-256 hash, byte offset, row count, target column) compiled strictly from raw primary workbooks — mathematically eradicating LLM parametric drift and numeric hallucinations.
+> - **Causal Commodity-to-DCF Transmission Engine:** Formulates a direct mathematical transmission mechanism translating maritime transit delays and dwell times ($\tau_{\text{transit}}$) across the Strait of Hormuz (20.8 Mbd) and Bab el-Mandeb (8.8 Mbd) into freight demurrage surcharges ($C_{\text{demurrage}}$), downstream feedstock cost inflation ($\Delta \text{COGS}$), corporate EBITDA margin compression, and terminal DCF enterprise value re-ratings.
+> - **Sub-Meter Optical Ground-Truth Verification:** Cross-verifies synthetic AIS transponder packets against real-time multispectral satellite imagery over Saudi Aramco's Ras Tanura tank farm (over 33M bbls capacity, with solar shadow fill-level geometry $h = H - L_{\text{shadow}} / \tan \theta$) and Manhattan commercial banking centroids (400 Broadway), eliminating dark-fleet manipulation and transponder spoofing.
+> - **Institutional Bloomberg-Grade Terminal Client:** Interactive local terminal environment featuring command-line `<GO>` execution syntax, function keys `[F1-F12]`, real-time macro sensitivity simulator ($T+0$ to $T+10Y$), SOIC 310-Point Scorecard compounder ranking, and Stan Weinstein 4-Stage market cycle screening.
+> - **Cryptographic Verification Audit:** **98.8% verification pass rate** (248 PASS / 3 WARN / 0 FAIL across 251 metrics audited against macroeconomic bounding boxes), cryptographically sealed with signature `b0dce941e1d0e88e56b7f3a2f2eb0fb9a17153e042e89172d579f317562c978f`.
 
-**Keywords:** `Multi-Agent Systems` `Quantitative Finance` `Damodaran Valuation` `Macroeconomics` `Bloomberg Terminal` `Geospatial AIS` `Sub-Meter Satellite` `DCF Simulator` `SOIC Framework`
+**Keywords:** `Multi-Agent Systems` `Quantitative Finance` `Damodaran Valuation` `Macroeconomics` `Bloomberg Terminal` `Geospatial AIS` `Sub-Meter Satellite` `DCF Simulator` `SOIC Framework` `Cryptographic Verification`
 
 ---
 
@@ -102,6 +108,7 @@ Currently developing automated pipelines for **transition-state location** in en
 | **Quantum ML** | PennyLane, VQC, qubit-based hybrid architectures |
 | **Data Science** | pandas, NumPy, SciPy, Statsmodels, Plotly, Matplotlib |
 | **AI Engineering** | Flask, WebSockets, RAG (ChromaDB), LLM routing (Ollama/OpenAI) |
+| **Quantitative Finance & Systems** | Damodaran Valuation, Multi-Agent Orchestration, DCF Modeling, WACC Hurdle Rates, Geospatial AIS Telemetry, Bloomberg Terminal Architecture |
 | **Languages** | Python, Bash, TCL (VMD), PowerShell |
 
 ---
